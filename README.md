@@ -5,3 +5,6 @@
 02 - Configurando Visibilidade de Atributos e Métodos
 
 03 - Métodos Getter, Setter e Construtor
+
+04 - Exemplo Prático em PHP
+

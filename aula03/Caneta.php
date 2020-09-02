@@ -10,6 +10,9 @@ class Caneta
 		$this->cor = $c;
 		$this->ponta = $p;
 	}
+	public function getCor(){
+		return $this->cor;
+	}
 
 	public function getModelo(){
 		return $this->modelo;
@@ -25,5 +28,9 @@ class Caneta
 
 	public function setPonta($p){
 		$this->ponta = $p;
+	}
+
+	public function setCor($c){
+		$this->cor = $c;
 	}
 }
