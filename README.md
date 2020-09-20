@@ -17,3 +17,7 @@
 08 - Exercício prático POO em PHP
 
 09 - Herança(Parte 1)
+
+10 - Herança(Parte 2)
+
+11 - Polimorfismo em PHP(Parte 1)
